@@ -1,13 +1,14 @@
-# Book Good Read Genre Classification using DistilBERT
+## Book Good Read Genre Classification using DistilBERT
 
-This project fine-tunes **DistilBERT (`distilbert-base-cased`)** for multi-class book good read genre classification using the Goodreads dataset. The model is trained using the Hugging Face Transformers library on Kaggle GPU infrastructure.
+This project fine-tunes **DistilBERT (`distilbert-base-cased`)** for good read genre classification of book using the Goodreads dataset. 
+
+The model is trained using the Hugging Face Transformers library on Kaggle GPU infrastructure.
 
 ---
 
 ## Why DistilBERT?
 
-For this assignment, **DistilBERT** was selected because it provides a strong balance between performance and computational efficiency. DistilBERT is a compressed version of BERT developed by Hugging Face that preserves most of BERT’s language understanding capabilities while being significantly lighter and faster.
-
+For this assignment, **DistilBERT** was selected because it provides a strong balance between performance and computational efficiency. 
 
 ---
 
